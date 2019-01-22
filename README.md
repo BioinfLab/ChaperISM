@@ -12,19 +12,22 @@ ChaperISM is an algorithm to identify Hsp70 binding sequences in proteins. It us
 ## System requirements
 The user must have Python 3 installed to run ChaperISM.
 
+## Installation
+ChaperISM does not require any type of installation. Just download the files into a working directory, unzip/untar (if necessary, and run according to "Usage" below.
+
 ## Usage
+After downloading the files, open a Terminal window and run the following:
 ```
-python ChaperISM.py [-h] [-qt] [-ql] [-qt_cutoff] [-ql_cutoff] [--version]
-                    fasta_file
+python ChaperISM.py fasta_file [-h] [-qt] [-ql] [-qt_cutoff] [-ql_cutoff] [--version] 
 ```
 
-### Options
+The "fasta_file" and "qt" or "ql" arguments are mandatory. Each argument is defined below: 
 
-positional arguments:
-  fasta_file            Text file containing protein sequences in fasta
-                        format.
+>positional arguments:
+fasta_file            
+Text file containing protein sequences in fasta format.
 
-optional arguments:
+>optional arguments:
   -h, --help            show this help message and exit
   -qt                   Quantitative prediction mode.
   -ql                   Qualitative prediction mode.
