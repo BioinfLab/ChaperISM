@@ -23,13 +23,13 @@ python ChaperISM.py fasta_file [-h] [-qt] [-ql] [-qt_cutoff] [-ql_cutoff] [--ver
 
 The "fasta_file" and "qt" or "ql" arguments are mandatory. All arguments are defined below: 
 
-- fasta_file                       Text file containing protein sequences in fasta format.
-- -h, --help                      Show this help message and exit
-- -qt                             Quantitative prediction mode.
-- -ql                             Qualitative prediction mode.
-- -qt_cutoff , --qt_cutoff        Cutoff for quantitative mode predictions.
-- -ql_cutoff , --ql_cutoff        Cutoff for qualitative mode predictions.
-- --version                       Show program's version number and exit
+- fasta_file                    Text file containing protein sequences in fasta format.
+- -h, --help                    Show this help message and exit
+- -qt                           Quantitative prediction mode.
+- -ql                           Qualitative prediction mode.
+- -qt_cutoff , --qt_cutoff      Cutoff for quantitative mode predictions.
+- -ql_cutoff , --ql_cutoff      Cutoff for qualitative mode predictions.
+- --version                     Show program's version number and exit
 
 
 ## Files list
