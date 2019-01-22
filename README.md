@@ -35,17 +35,6 @@ The "fasta_file" and "qt" or "ql" arguments are mandatory. All arguments are def
 In case 
 
 
---------------------------------------------
-Sequence: name (optional)
---------------------------------------------
-POSITION    HEPTAMER      SCORE     BINDER
---------------------------------------------
-    0        KIYRLAI      3.330171     *    
-    1        IYRLAIR      3.365994     *    
-    2        YRLAIRT      3.239968     *    
---------------------------------------------
-
-
 
 ## Files list
 
