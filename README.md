@@ -33,7 +33,9 @@ The "fasta_file" and "qt" or "ql" arguments are mandatory. All arguments are def
 
 ## Output
 In case 
+https://user-images.githubusercontent.com/43217682/51554466-893fe000-1e5c-11e9-83d2-d962255fe124.png
 
+https://user-images.githubusercontent.com/43217682/51554627-d7ed7a00-1e5c-11e9-9f39-5a1e629771d0.png
 
 
 ## Files list
