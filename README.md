@@ -27,15 +27,23 @@ The "fasta_file" and "qt" or "ql" arguments are mandatory. All arguments are def
 - -h, --help: show a help message and exit.
 - -qt: quantitative prediction mode.
 - -ql: qualitative prediction mode.
-- -qt_cutoff , --qt_cutoff: cutoff for quantitative mode predictions.
-- -ql_cutoff , --ql_cutoff: cutoff for qualitative mode predictions.
+- -qt_cutoff , --qt_cutoff: cutoff for quantitative mode predictions (default is 2.7)
+- -ql_cutoff , --ql_cutoff: cutoff for qualitative mode predictions (default is 0.2)
 - --version: show program's version number and exit
 
 ## Output
-In case 
-https://user-images.githubusercontent.com/43217682/51554466-893fe000-1e5c-11e9-83d2-d962255fe124.png
+After running, a message will be shown in the Terminal with the name of the sequence (optional, defined by the user inside the fasta file) and a table, which include the following columns:
+- Position: position of the heptamer in the sequence provided.
+- Heptamer: heptamer sequence
+- Score: binding score
+- Binder: this column will be filled with an asterisk if the sequence is predicted as binder. For quantitative mode prediction (-qt) the cutoff is 2.7. For qualitative mode prediction (-ql) the cutoff is 0.2.
 
-https://user-images.githubusercontent.com/43217682/51554627-d7ed7a00-1e5c-11e9-9f39-5a1e629771d0.png
+An output example is given in Figure 1 and Figure 2
+![image](https://user-images.githubusercontent.com/43217682/51554466-893fe000-1e5c-11e9-83d2-d962255fe124.png)
+***Figure 1***. Results after ChaperISM prediction using quantitative mode prediction (-qt)
+
+![image](https://user-images.githubusercontent.com/43217682/51554627-d7ed7a00-1e5c-11e9-9f39-5a1e629771d0.png)
+***Figure 2***. Results after ChaperISM prediction using qualitative mode prediction (-ql)
 
 
 ## Files list
