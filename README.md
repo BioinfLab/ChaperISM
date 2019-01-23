@@ -46,8 +46,10 @@ An output example is given in Figure 1 and Figure 2 below.
 ![image](https://user-images.githubusercontent.com/43217682/51554627-d7ed7a00-1e5c-11e9-9f39-5a1e629771d0.png)
 ***Figure 2***. Results after ChaperISM prediction using qualitative mode prediction (-ql)
 
-
 ## Files list
+- ChaperISM.py: ChaperISM code
+- README: Readme file with information and instructions
+- Test: directory containing a fasta sequence that can be downloaded and tested with the following command: python ChaperISM.py sequence.fasta (argument)
 
 ## Contact information
 For more details, please contact Mauricio Menegatti Rigo,PhD (mauricio.rigo@pucrs.br) or Matheus de Bastos Balbé e Gutierres, BSc (matheusbgutierres@gmail.com).
