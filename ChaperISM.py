@@ -91,7 +91,7 @@ def Predict_Qualitative_Mode(dict_seq, cutoff):
 		print ("............................................")
 
 def check_seq(string):
-	allowed = ('A','C','D','E','F','G','H','I','K','L','M','N','P','Q','R','S','T','V','W','X','Y','\t',' ','\n')
+	allowed = ('A','C','D','E','F','G','H','I','K','L','M','N','P','Q','R','S','T','V','W','Y','\t',' ','\n')
 	string = string.upper()
 	for char in string:
 		if char in allowed:
