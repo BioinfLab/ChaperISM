@@ -52,4 +52,6 @@ An output example is given in Figure 1 and Figure 2 below.
 ## Contact information
 For more details, please contact Mauricio Menegatti Rigo,PhD (mauricio.rigo@pucrs.br) or Matheus de Bastos Balbé e Gutierres, BSc (matheusbgutierres@gmail.com).
 
+BioinfLabRS ©2019
+
 
