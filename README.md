@@ -54,6 +54,11 @@ An output example is given in Figure 1 and Figure 2 below.
 ## Contact information
 For more details, please contact Mauricio Menegatti Rigo,PhD (mauricio.rigo@pucrs.br) or Matheus de Bastos Balbé e Gutierres, BSc (matheusbgutierres@gmail.com).
 
-BioinfLabRS ©2019
+## Citation
+If you use ChaperISM, please cite us:
+
+Gutierres MBB, Bonorino CBC, Rigo MM. ChaperISM: improved chaperone binding prediction using position-independent scoring matrices. Bioinformatics. Volume 36, Issue 3, 1 February 2020, Pages 735–741.
+https://academic.oup.com/bioinformatics/article/36/3/735/5555810
+
 
 
