@@ -52,7 +52,7 @@ An output example is given in Figure 1 and Figure 2 below.
 - Test: directory containing a fasta sequence that can be downloaded and tested with the following command: python ChaperISM.py sequence.fasta (argument)
 
 ## Contact information
-For more details, please contact Mauricio Menegatti Rigo,PhD (mauricio.rigo@pucrs.br) or Matheus de Bastos Balbé e Gutierres, BSc (matheusbgutierres@gmail.com).
+For more details, please contact Mauricio Menegatti Rigo,PhD (mmr9@rice.edu) or Matheus de Bastos Balbé e Gutierres, BSc (matheusbgutierres@gmail.com).
 
 ## Citation
 If you use ChaperISM, please cite us:
